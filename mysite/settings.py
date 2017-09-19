@@ -25,7 +25,7 @@ SECRET_KEY = 'yw$&elrf=9ztokv_q*629+c@6iiy9&c($zgbz+y)vcxv^!9e#j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'alvar.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'bustencio.pythonanywhere.com']
 
 
 # Application definition
